@@ -1,0 +1,4 @@
+Un producto dispondrá de los siguientes campos:  id, timestamp, nombre, descripcion, código, foto (url), precio, stock.
+
+El carrito de compras tendrá la siguiente estructura: 
+id, timestamp(carrito), productos: { id, timestamp(producto), nombre, descripcion, código, foto (url), precio, stock }

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 2,
+    "timestamp": 1645018827460,
+    "productos": []
+  },
+  {
+    "id": 3,
+    "timestamp": 1645018828515,
+    "productos": [
+      {
+        "nombre": "Prueba editada",
+        "descripcion": "descripcion prueba",
+        "codigo": "XXXXX",
+        "foto": "url foto",
+        "precio": 1000,
+        "stock": 200,
+        "id": 1,
+        "timestamp": 1644984879293
+      }
+    ]
+  }
+]

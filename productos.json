@@ -1,0 +1,52 @@
+[
+  {
+    "nombre": "Prueba editada",
+    "descripcion": "descripcion prueba",
+    "codigo": "XXXXX",
+    "foto": "url foto",
+    "precio": 1000,
+    "stock": 200,
+    "id": 1,
+    "timestamp": 1644984879293
+  },
+  {
+    "nombre": "Prueba",
+    "descripcion": "descripcion prueba",
+    "codigo": "XXXXX",
+    "foto": "url foto",
+    "precio": 1000,
+    "stock": 200,
+    "id": 2,
+    "timestamp": 1645018805153
+  },
+  {
+    "nombre": "Prueba",
+    "descripcion": "descripcion prueba",
+    "codigo": "XXXXX",
+    "foto": "url foto",
+    "precio": 1000,
+    "stock": 200,
+    "id": 3,
+    "timestamp": 1645018812477
+  },
+  {
+    "nombre": "Prueba",
+    "descripcion": "descripcion prueba",
+    "codigo": "XXXXX",
+    "foto": "url foto",
+    "precio": 1000,
+    "stock": 200,
+    "id": 4,
+    "timestamp": 1645018813400
+  },
+  {
+    "nombre": "Prueba",
+    "descripcion": "descripcion prueba",
+    "codigo": "XXXXX",
+    "foto": "url foto",
+    "precio": 1000,
+    "stock": 200,
+    "id": 5,
+    "timestamp": 1645031609909
+  }
+]
